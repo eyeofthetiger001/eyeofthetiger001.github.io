@@ -1,8 +1,9 @@
-body {
-  color: #f1e1da;
+BODY{
+  background-color: #f1e1da;
 }
 h1 {
-  color: blue;
+  color: black;
   font-family: cursive;
   font-size: 30px;
+  text-align: center;
 }
